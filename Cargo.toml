@@ -9,6 +9,6 @@ repository = "https://github.com/cwoodall/stm32f303x-memory-map"
 version = "0.1.0"
 
 [dependencies]
-volatile-register = "0.1.2"
+volatile-register = "0.2.0"
 cortex-m = "0.2.1"
 vcell = "0.1.0"
