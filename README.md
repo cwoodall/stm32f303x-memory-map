@@ -1,11 +1,6 @@
-[![crates.io](https://img.shields.io/crates/d/stm32f30x-memory-map.svg)](https://crates.io/crates/stm32f30x-memory-map)
-[![crates.io](https://img.shields.io/crates/v/stm32f30x-memory-map.svg)](https://crates.io/crates/stm32f30x-memory-map)
-
-# `stm32f30x-memory-map`
+# `stm32f303x-memory-map`
 
 > Memory map for STM32F30X microcontrollers
-
-## [Documentation](https://docs.rs/stm32f30x-memory-map)
 
 ## [Change log](CHANGELOG.md)
 
