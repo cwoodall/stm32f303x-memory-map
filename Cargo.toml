@@ -1,0 +1,9 @@
+[package]
+name = "stm32f303_memory_map"
+version = "0.1.0"
+authors = ["Christopher J. Woodall <chris.j.woodall@gmail.com>"]
+
+[dependencies]
+volatile-register = "0.1.2"
+cortex-m = "0.2.1"
+vcell = "0.1.0"
