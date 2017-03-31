@@ -1,7 +1,12 @@
 [package]
-name = "stm32f303_memory_map"
-version = "0.1.0"
 authors = ["Christopher J. Woodall <chris.j.woodall@gmail.com>"]
+description = "Memory map for STM32F303X microcontrollers"
+documentation = "https://docs.rs/stm32f303x-memory-map"
+keywords = ["arm", "cortex-m", "stm32"]
+license = "MIT OR Apache-2.0"
+name = "stm32f303x-memory-map"
+repository = "https://github.com/cwoodall/stm32f303x-memory-map"
+version = "0.1.0"
 
 [dependencies]
 volatile-register = "0.1.2"
