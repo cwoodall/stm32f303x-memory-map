@@ -1,6 +1,6 @@
 # `stm32f303x-memory-map`
 
-> Memory map for STM32F30X microcontrollers
+> Memory map for STM32F303X microcontrollers
 
 ## [Change log](CHANGELOG.md)
 
