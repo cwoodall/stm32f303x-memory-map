@@ -6,7 +6,7 @@ keywords = ["arm", "cortex-m", "stm32"]
 license = "MIT OR Apache-2.0"
 name = "stm32f303x-memory-map"
 repository = "https://github.com/cwoodall/stm32f303x-memory-map"
-version = "0.1.0"
+version = "0.1.1"
 
 [dependencies]
 volatile-register = "0.2.0"
