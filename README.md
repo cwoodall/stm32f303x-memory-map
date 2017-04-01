@@ -5,6 +5,8 @@
 
 ## [Change log](CHANGELOG.md)
 
+## [Documentation](https://docs.rs/stm32f303x-memory-map)
+
 ## License
 
 Licensed under either of
