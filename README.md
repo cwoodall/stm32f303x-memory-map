@@ -1,6 +1,7 @@
 # `stm32f303x-memory-map`
-
 > Memory map for STM32F303X microcontrollers
+
+[![Crates IO Badge](https://img.shields.io/crates/v/stm32f303x-memory-map.svg)](https://crates.io/crates/stm32f303x-memory-map)
 
 ## [Change log](CHANGELOG.md)
 
